@@ -1,0 +1,173 @@
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#cccccc"
+        android:stretchColumns="0,1" >
+
+        <TextView
+            android:id="@+id/textViewVersion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="v1.0"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="4pt"
+            android:textColor="#AAAAAA" />
+
+    	<TableRow
+    	    android:layout_width="fill_parent"
+    	    android:layout_height="wrap_content"
+    	    android:layout_weight="1"
+    	    android:padding="8dp" >
+
+        	<ImageView
+        	    android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:layout_span="2"
+        	    android:gravity="center"
+        	    android:src="@drawable/herp_project" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:layout_weight="1"
+        >
+
+            <Button
+                android:id="@+id/aquaticturtle"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/aquatic_turtle_label"
+                android:textColor="#6E772C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/boxturtle"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/box_turtle_label"
+                android:textColor="#6E772C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+        
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/lizard"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/lizard_label"
+                android:textColor="#6E772C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+        
+        <TableRow
+           android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/snake"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/snake_label"
+                android:textColor="#6E772C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+        
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/frogcall"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/frog_call_label"
+                android:textColor="#6E772C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+        
+        <TableRow
+           	android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/aquaticHabitat"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/aquatic_habitat_data_label"
+                android:textColor="#6E772C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/fielddata"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/field_data_label"
+                android:textColor="#6E772C"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/aboutbutton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="About" />
+
+            <Button
+                android:id="@+id/collectingbutton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Collecting Data" />
+        </TableRow>
+        
+    </TableLayout>

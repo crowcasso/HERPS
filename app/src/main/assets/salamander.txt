@@ -1,0 +1,49 @@
+Eastern Hellbender, Cryptobranchus alleganiensis
+Mudpuppy, Necturus maculosus
+Neuse River Waterdog, Necturus lewisi
+Dwarf Waterdog, Necturus punctatus
+Two-toed Amphiuma, Amphiuma means
+Greater Siren, Siren lacertina
+Lesser Siren, Siren intermedia
+Mole Salamander, Ambystoma talpoideum
+Marbled Salamander, Ambystoma opacum
+Mabee's Salamander, Ambystoma mabeei
+Spotted Salamander, Ambystoma maculatum
+Tiger Salamander, Ambystoma tigrinum
+Red-spotted Newt, Notophthalmus viridescens viridescens
+Southern Two-lined Salamander, Eurycea cirrigera
+Blue Ridge Two-lined Salamander, Eurycea wilderae
+Long-tailed Salamander, Eurycea longicauda
+Three-lined Salamander, Eurycea guttolineata
+Dwarf Salamander, Eurycea quadridigitata
+Chamberlain's Dwarf Salamander, Eurycea chamberlaini
+Junaluska Salamander, Eurycea junaluska
+Northern Dusky Salamaner, Desmognathus fuscus
+Spotted Dusky Salamander, Desmognathus conanti
+Southern Dusky Salamander, Desmognathus auriculatus
+Santeetlah Dusky Salamander, Desmognathus santeetlah
+Seal Salamander, Desmognathus monticola
+Black-bellied Salamander, Desmognathus quadramaculatus
+Desmognathus ochrophaeus Complex, Desmognathus carolinensis - ocoee - orestes
+Imitator Salamander, Desmognathus imitator
+Pygmy Salamander, Desmognathus wrighti
+Seepage Salamander, Desmognathus aeneus
+Shovel-nosed Salamander, Desmognathus marmoratus
+Red-backed Salamander, Plethodon cinereus
+Southern Red-backed Salamander, Plethodon serratus
+Ravine Salamander, Plethodon richmondi
+Weller's Salamander, Plethodon welleri
+Southern Zigzag Salamander, Plethodon ventralis
+Wehrle's Salamander, Plethodon wehrlei
+Grey-cheeked Salamander Complex, Plethodon amplus - meridianus - metcalfi - montanus
+Slimy Salamander Complex, Plethodon aureolus - chattahoochee - chlorobryonis - cylindraceus - glutinosus - teyahalee
+Cheoah Bald Salamander, Plethodon cheoah
+Red-legged Salamander, Plethodon shermani
+Yonahlossee Salamander, Plethodon yonahlossee
+Jordan's Salamander, Plethodon jordani
+Four-toed Salamander, Hemidactylium scutatum
+Many-lined Salamander, Stereochilus marginatus
+Green Salamander, Aneides aeneus
+Spring Salamander, Gyrinophilus porphyritcus
+Mud Salamander, Pseudotriton montanus
+Red Salamander, Pseudotriton ruber

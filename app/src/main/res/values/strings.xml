@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="hello">Hello World, NsfActivity!</string>
+    <string name="app_name">HERPS</string>
+    <string name="upload">Upload</string>
+    <string name="go">Go</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="turtleId">Turtle Id:</string>
+    <string name="newRun">New Run</string>
+    <string name="startRun">Start Survey</string>
+    <string name="addDAta">Add Data</string>
+    <string name="endRun">End Survey</string>
+    <string name="degree">°</string>
+    <string name="minutes">\'</string>
+    <string name="seconds">\"</string>
+    <string name="locate">Locate</string>
+
+    <string-array name="east_west">
+        <item>E</item>
+        <item>W</item>
+    </string-array>
+    <string-array name="north_south">
+        <item>N</item>
+        <item>S</item>
+    </string-array>
+
+    <string name="easting">Easting:</string>
+    <string name="northing">Northing:</string>
+    <string name="zone">Zone:</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_collecting_data">CollectingData</string>
+    <string name="about_title">About The HERP Project</string>
+    <string name="about_content">Herpetology Education in Rural Places and Spaces (The HERP Project) is a NSF-funded project to support educational, conservation and field ecology experiences related to herpetology (the study of reptiles and amphibians).  School-aged youth from around the state of North Carolina are participating in a variety of field science investigations.  This app provides the opportunity to contribute data to those investigations. </string>
+    <string name="collecting_title">Collecting Data</string>
+    <string name="collecting_content">If you would like to contribute data to any of these projects, please download this data collection app to your Android device.  Register your participation in these projects by emailing The HERP Project at theherpproject@uncg.edu.  For each project, you will navigate through the data collection process by using the tabs at the top of the app. </string>
+    <string name="aquatic_turtle">This project is a mark/recapture population study of semi-aquatic turtles.  You will need to be able to identify turtle species and have a coding system if you want to mark turtles.  We trap turtles using hoop traps.  You will be taking turtle measurements of length and weight.  Refer to our Semi-Aquatic Turtle curriculum at [link to be added] for more detailed information.  You should contact your state’s wildlife resources agency before starting any semi-aquatic turtle study.</string>
+    <string name="box_turtle">This project is a mark/recapture population study of Eastern Box Turtles.  You will need to have a coding system if you want to mark turtles.  You will be taking the following turtle measurements: CL is carapace length, CW is carapace width at widest point, and PL is plastron length from anterior to hinge and hinge to posterior.  You will also be weighing turtles.  Refer to our Box Turtle curriculum at [link to be added] for more detailed information.   You should contact your state’s wildlife resources agency before starting any box turtle study.</string>
+    <string name="lizard">This project is a population survey of native lizard species.  You will need to be able to identify lizard species.  We capture lizards using home-made lizard lassos but we capture skinks by hand.  You will be taking lizard measurements of snout-vent length (SVL), tail length and weight.  Refer to our Lizard curriculum at [link to be added] for more detailed information.  You should contact your state’s wildlife resources agency before starting any lizard study.</string>
+    <string name="snake">This project is a population survey of native snake species.  You will need to be able to identify snake species.  Under capture method, you will see that there are some numbers with no descriptors (NA).  Gravid refers to female snakes holding eggs.  This is because we use the same numbers across projects and those blank numbers do not apply to the snake project.  You will be taking snake measurements of total length and weight.  Please indicate your method for measuring snake length: stretch, squeeze box, tube or other.  Refer to our Snake curriculum at [link to be added] for more detailed information related to teaching about snakes.  You should contact your state’s wildlife resources agency before starting any snake study.  We do not recommend that anyone handle venomous snakes.</string>
+    <string name="frog_call">This project is a calling amphibian survey.  You will need to be able to identify frogs by call and characterize the population with a calling abundance index.  The calling index values are: 1 = Individuals can be counted, there is space between calls; 2 = Calls of individuals can be distinguished but there is some overlapping of calls; and 3 = Full chorus, calls are constant, continuous and overlapping.  For our project, at each stop students listen for 2 minutes (recording start time), then record the air temperature, the amphibian calling index for each species heard, and whether moon light was visible or not.  Additional species can be added with the “Add Species” button.  TO USE THE RECORD FEATURE YOU WILL NEED TO CHANGE THE SETTING ON YOUR DEVICE FOR THE SCREEN TO NOT GO TO SLEEP BEFORE THE RECORDING TIME PERIOD ENDS.  For more information about amphibian calling surveys check: https://www.pwrc.usgs.gov/naamp/</string>
+    <string name="aquatic_habitat_data">This project is a habitat specific survey.  You should use this data entry method for survey of ephemeral pools, streams, ponds or lakes.  We use minnow traps (baited and unbaited) as well as leaf packs.  The data collection is set up to start the survey by collecting location information and environmental parameters.  Once this information is submitted, the app will take you back out to the home page where you should once again select “Aquatic Habitat Data”.  On the next window, select “Add Data” and proceed through the four tabs: trap, salamander, frog, and other as you record information on all animals collected.  When all animal information has been recorded, click the submit button and this will take you back to the home screen.   Click the “Aquatic Habitat Data” button one more time to record environmental parameters at the end of the survey by clicking “End Survey”.   Clicking the final submit button will complete the data entry.</string>
+    <string name="field_data">This project is a habitat specific survey.  You should use this data entry method for survey of forested areas.  We use coverboards or visual searches.  The data collection is set up to start the survey by collecting location information and environmental parameters.  Once this information is submitted, the app will take you back out to the home page where you should once again select “Field Data”.  On the next window, select “Add Data”. When all animal information has been recorded, click the submit button and this will take you back to the home screen.   Click the “Field Data” button one more time to record environmental parameters at the end of the survey by clicking “End Survey”.   Clicking the final submit button will complete the data entry.</string>
+    <string name="aquatic_habitat_data_label">Aquatic Habitat Data</string>
+    <string name="frog_call_label">Frog Call</string>
+    <string name="field_data_label">Field Data</string>
+    <string name="aquatic_turtle_label">Aquatic Turtle</string>
+    <string name="box_turtle_label">Box Turtle</string>
+    <string name="lizard_label">Lizard</string>
+    <string name="snake_label">Snake</string>
+
+</resources>

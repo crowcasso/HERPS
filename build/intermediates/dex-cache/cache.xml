@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/crowcasso/workspaces/herps/herps/app/libs/httpmime-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6acbb2ba813e406f946d33dc14150e24c00b2c57">
+        <dex dex="/Users/crowcasso/workspaces/herps/herps/app/build/intermediates/pre-dexed/debug/httpmime-4.2-a1a5f9711bc55aff31c76aa16d5865be94e46924.jar" />
+    </item>
+    <item
+        jar="/Users/crowcasso/workspaces/herps/herps/app/libs/jcoord-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d10944084bf19d6e97ad82ba9eebd7a9440cdec9">
+        <dex dex="/Users/crowcasso/workspaces/herps/herps/app/build/intermediates/pre-dexed/debug/jcoord-1.0-7e885085ac5c9d1da783d68bf68a20bf73e4dbcc.jar" />
+    </item>
+    <item
+        jar="/Users/crowcasso/workspaces/herps/herps/app/libs/httpclient-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="15e5dcd413042ee5af9c350604d57e8c156e103f">
+        <dex dex="/Users/crowcasso/workspaces/herps/herps/app/build/intermediates/pre-dexed/debug/httpclient-4.2-dda68f44b0b2b367bd99b2cb679c2ac1fce06079.jar" />
+    </item>
+    <item
+        jar="/Users/crowcasso/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/crowcasso/workspaces/herps/herps/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-df7102152ccbb652abc797761d453b652a6d0483.jar" />
+    </item>
+    <item
+        jar="/Users/crowcasso/workspaces/herps/herps/app/libs/apache-mime4j-core-0.7.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a81264fe0265ebe8fd1d8128aad06dc320de6eef">
+        <dex dex="/Users/crowcasso/workspaces/herps/herps/app/build/intermediates/pre-dexed/debug/apache-mime4j-core-0.7.2-36a2f41611c73b9f3c7043b622603a301419bde7.jar" />
+    </item>
+    <item
+        jar="/Users/crowcasso/workspaces/herps/herps/app/libs/httpcore-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e431c80f58ec65460fcbdaaad802af668bb3fda">
+        <dex dex="/Users/crowcasso/workspaces/herps/herps/app/build/intermediates/pre-dexed/debug/httpcore-4.2-a04f29730c3181d025ee72245194dd68b2c5575b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+Worm Snake, Carphophis amoenus
+Coachwhip, Masticophis flagellum 
+Southeastern Crowned Snake, Tantilla coronata 
+Scarlet Snake, Cemophora coccinea 
+Redbelly Water Snake, Nerodia erythrogaster 
+Eastern Ribbon Snake, Thamnophis sauritus 
+Racer, Coluber constrictor 
+Banded Water Snake, Nerodia fasciata 
+Eastern Garter Snake, Thamnophis sirtalis 
+Ringneck Snake, Diadophis punctatus 
+Northern Water Snake, Nerodia sipedon 
+Rough Earth Snake, Virginia striatula
+Corn Snake, Elaphe guttata
+Brown Water Snake, Nerodia taxispilota 
+Smooth Earth Snake, Virginia valeriae
+Rat Snake, Elaphe obsoleta
+Rough Green Snake, Opheodrys aestivus Family E
+Mud Snake, Farancia abacura
+Pine Snake, Pituophis melanoleucus 
+Rainbow Snake, Farancia erytrogramma
+Glossy Crawfish Snake, Regina rigida 
+Eastern Hognose Snake, Heterodon platirhinos
+Queen Snake,Regina septemvittata 
+Copperhead, Agkistrodon contortrix 
+Southern Hognose Snake, Heterodon simus 
+Pine Woods Snake, Rhadinaea flavilata 
+Mole Kingsnake, Lampropeltis calligaster
+Carolina Swamp Snake, Seminatrix pygaea 
+Eastern Kingsnake, Lampropeltis getula 
+Brown Snake, Storeria dekayi 
+Scarlet Kingsnake/Milksnake, Lampropeltis triangulum 
+Redbelly Snake, Storeria occipitomaculata 
+Pygmy Rattlesnake, Sistrurus miliarius
+Timber Rattlesnake, Crotalus horridus
+Eastern Diamondback Rattlesnake, Crotalus adamanteus
+Cottonmouth, Agkistrodon piscivorus
+Eastern Coral Snake, Micrurus fulvius

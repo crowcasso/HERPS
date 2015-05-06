@@ -1,0 +1,7 @@
+common snapping turtle,Chelydra serpentina,1,26,kg,200,470
+eastern musk turtle,Sternotherus odoratus,60,160,g,80,140
+painted turtle,Chrysemys picta,40,350,g,100,180
+yellow-bellied slider,Trachemys scripta,40,4000,g,125,290
+red-eared slider,Trachemys scripta elegans,40,4000,g,125,290
+eastern mud turtle,Kinosternon subrubrum,120,190,g,75,125
+river cooter,Pseudemys concinna,40,4000,g,230,330
